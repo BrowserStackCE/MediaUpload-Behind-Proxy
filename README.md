@@ -2,7 +2,7 @@
 This repository is to test if media upload is wroking as expected behind an SSL proxy
 
 <div align="center">
-<img src = "https://www.browserstack.com/images/layout/browserstack-logo-600x315.png" > <br>
+<img src = "https://www.browserstack.com/images/static/header-logo.jpg" > <br>
 </div>
 
 
